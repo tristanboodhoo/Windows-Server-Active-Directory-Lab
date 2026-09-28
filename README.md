@@ -300,6 +300,13 @@ This screenshot shows the virtualized lab environment containing the Windows Ser
 This screenshot shows the Active Directory domain and departmental Organizational Units created under the Employees OU.
 
 ![Active Directory Organizational Units](screenshots/active-directory-ous.png)
+### Active Directory Password Reset
+
+I practiced resetting a domain user's password in Active Directory Users and Computers (ADUC), including requiring the user to change the password at the next logon.
+
+![Active Directory Password Reset](screenshots/password-reset.png)
+
+
 
 ### Group Policy Configuration
 
@@ -351,7 +358,7 @@ I plan to continue expanding the lab with additional Help Desk and Windows admin
 - DHCP
 - PowerShell administration
 - Account lockout troubleshooting
-- Password reset scenarios
+
 - Windows Event Viewer troubleshooting
 - Remote administration
 - Help Desk ticket simulations
